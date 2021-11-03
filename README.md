@@ -26,15 +26,17 @@ I hope to be useful in the IT-sphere.
 Currently a freelancer working on my favorite projects.
 I continue to study in depth various frameworks.
 
-- 📫 How to reach me: 
-  ✉ krkv-s@mail.ru
-  ☎ WhatsApp: +7-91-33-99-88-58
-  ☏ +7-953-85-85-85-7
+- 📫 HOW TO REACH ME: 
+  ✉ krkv-s@mail.ru ;
+  ☎ WhatsApp: +7-91-33-99-88-58 ;
+  ☏ +7-953-85-85-85-7 ;
   
 - 🍓 MY WORKS:
 Tilda:
-http://yandex-bike.tilda.ws/
-https://nikulinafit.tilda.ws/
+http://yandex-bike.tilda.ws/ ;
+https://nikulinafit.tilda.ws/ ;
 
 Html:
+http://f0596132.xsph.ru/
+
 
