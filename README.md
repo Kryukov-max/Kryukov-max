@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexandr Kryukov. Only a faceted glass is more multifaceted than me): 
-Frontend developer, engineer, personal trainer and a Kinesiologist, book co-author "Диабет СД1 и силовые тренировки. Практическое пособие."  ISBN 978-5-600-02618-6
+Frontend developer, engineer, personal trainer and a Kinesiologist.
 
 - 👀 SUMMARY:
 Result-oriented, and I like a process codding.
