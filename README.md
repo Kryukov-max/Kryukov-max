@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Alexandr Kryukov. Only a faceted glass is more multifaceted than me): 
-Frontend developer, engineer, personal trainer and a Kinesiologist.
+- 👋 Hi, I’m Alexandr Kryukov. I’m: Frontend developer, engineer, personal trainer and a Kinesiologist.
 
 - 👀 SUMMARY:
 Result-oriented, and I like a process codding.
